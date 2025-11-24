@@ -1,4 +1,4 @@
-#16.0.0
+# 16.0.0
  * Upgrade to .NET 10
  * Optimise the code to support single-file deployment and execution
 
